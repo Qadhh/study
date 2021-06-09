@@ -1,0 +1,19 @@
+com/example/study/adapter/MainVp2Adapter.java
+ com.example.study.adapter.MainVp2Adapter
+com/example/study/adapter/MainAdapter.java
+ com.example.study.adapter.MainAdapter
+com/example/study/MainActivity.java
+ com.example.study.MainActivity
+ com.example.study.MainActivity$1
+com/example/study/fragment/HomeFragment.java
+ com.example.study.fragment.HomeFragment
+com/example/study/BuildConfig.java
+ com.example.study.BuildConfig
+com/example/study/fragment/MyFragment.java
+ com.example.study.fragment.MyFragment
+com/example/study/fragment/CategoryFragment.java
+ com.example.study.fragment.CategoryFragment
+com/example/study/fragment/ApplicationFragment.java
+ com.example.study.fragment.ApplicationFragment
+com/example/study/bean/FragmentBean.java
+ com.example.study.bean.FragmentBean
